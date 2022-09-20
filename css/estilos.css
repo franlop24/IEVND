@@ -1,4 +1,12 @@
+body {
+    background-color: cyan;
+}
+
 h1 {
     color: blue;
     font-size: 30px;
+}
+
+ul {
+    color: red;
 }
